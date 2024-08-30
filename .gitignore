@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 words_alpha.txt
+syllable_data.csv
 # C extensions
 *.so
 
