@@ -5,6 +5,7 @@ __pycache__/
 words_alpha.txt
 syllable_data.csv
 syllable_model.pkl
+syllable_model_GBR.pkl
 # C extensions
 *.so
 
